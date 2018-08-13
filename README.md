@@ -1,1 +1,3 @@
-# devops-aula02
+# Bryan Craston
+# Jennifer Lawrence
+# Kristen Stwert
