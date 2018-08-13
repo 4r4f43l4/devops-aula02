@@ -1,3 +1,4 @@
 # Bryan Craston
-# Jennifer Lawrence
+# Jennifer Lawrencee
 # Kristen Stwert
+# Alvaro Morte
